@@ -8813,6 +8813,19 @@
   "faucets": [],
   "infoURL": "https://www.superloyal.com/"
 }, {
+  "name": "Azra Testnet",
+  "chainId": 5106,
+  "shortName": "azra-testnet",
+  "networkId": 5106,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-azra-testnet-6hz86owb1n.t.conduit.xyz"],
+  "faucets": [],
+  "infoURL": "https://azragames.com"
+}, {
   "name": "Bahamut",
   "chainId": 5165,
   "shortName": "ftn",
@@ -15949,6 +15962,19 @@
   "rpc": ["https://mainnet-rpc.ecroxscan.com/"],
   "faucets": [],
   "infoURL": "https://ecroxcoin.io/"
+}, {
+  "name": "Netmind Chain Testnet",
+  "chainId": 1100789,
+  "shortName": "nmtTest",
+  "networkId": 1100789,
+  "nativeCurrency": {
+    "name": "NMT",
+    "symbol": "NMT",
+    "decimals": 18
+  },
+  "rpc": ["https://testblock.protago-dev.com"],
+  "faucets": [],
+  "infoURL": "https://netmind.ai"
 }, {
   "name": "Tiltyard Subnet",
   "chainId": 1127469,

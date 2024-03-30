@@ -7993,7 +7993,7 @@
 }, {
   "name": "Humans.ai Mainnet",
   "chain": "Humans",
-  "rpc": ["https://jsonrpc.humans.nodestake.top", "https://humans-mainnet-evm.itrocket.net", "https://humans-evm-rpc.staketab.org:443", "https://evm.humans.stakepool.dev.br", "https://mainnet-humans-evm.konsortech.xyz", "https://evm-rpc.mainnet.humans.zone", "https://json-rpc.humans.bh.rocks"],
+  "rpc": ["https://jsonrpc.humans.nodestake.top", "https://humans-mainnet-evm.itrocket.net", "https://humans-evm-rpc.staketab.org:443", "https://evm.humans.stakepool.dev.br", "https://mainnet-humans-evm.konsortech.xyz", "https://evm-rpc.mainnet.humans.zone", "https://json-rpc.humans.bh.rocks", "https://evm-rpc.humans.huginn.tech"],
   "faucets": [],
   "nativeCurrency": {
     "name": "HEART",
@@ -18031,6 +18031,29 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Masa",
+  "chain": "MASA",
+  "icon": "masa",
+  "rpc": ["https://subnets.avax.network/masanetwork/mainnet/rpc"],
+  "features": [{
+    "name": "EIP1559"
+  }],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Masa Token",
+    "symbol": "MASA",
+    "decimals": 18
+  },
+  "infoURL": "https://masa.finance",
+  "shortName": "masa",
+  "chainId": 13396,
+  "networkId": 13396,
+  "explorers": [{
+    "name": "Masa Explorer",
+    "url": "https://subnets.avax.network/masa",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Immutable zkEVM Testnet",
   "chain": "Immutable zkEVM",
   "rpc": ["https://rpc.testnet.immutable.com", "https://immutable-zkevm-testnet.drpc.org", "wss://immutable-zkevm-testnet.drpc.org"],
@@ -22976,6 +22999,7 @@
 }, {
   "name": "Masa Testnet",
   "chain": "MASA",
+  "icon": "masa",
   "rpc": ["https://subnets.avax.network/masatestne/testnet/rpc"],
   "features": [{
     "name": "EIP1559"
@@ -22987,7 +23011,7 @@
     "decimals": 18
   },
   "infoURL": "https://masa.finance",
-  "shortName": "masa",
+  "shortName": "masatest",
   "chainId": 103454,
   "networkId": 103454,
   "explorers": [{

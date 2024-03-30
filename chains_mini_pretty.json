@@ -5000,7 +5000,7 @@
     "symbol": "HEART",
     "decimals": 18
   },
-  "rpc": ["https://jsonrpc.humans.nodestake.top", "https://humans-mainnet-evm.itrocket.net", "https://humans-evm-rpc.staketab.org:443", "https://evm.humans.stakepool.dev.br", "https://mainnet-humans-evm.konsortech.xyz", "https://evm-rpc.mainnet.humans.zone", "https://json-rpc.humans.bh.rocks"],
+  "rpc": ["https://jsonrpc.humans.nodestake.top", "https://humans-mainnet-evm.itrocket.net", "https://humans-evm-rpc.staketab.org:443", "https://evm.humans.stakepool.dev.br", "https://mainnet-humans-evm.konsortech.xyz", "https://evm-rpc.mainnet.humans.zone", "https://json-rpc.humans.bh.rocks", "https://evm-rpc.humans.huginn.tech"],
   "faucets": [],
   "infoURL": "https://humans.ai"
 }, {
@@ -11283,6 +11283,19 @@
   "faucets": [],
   "infoURL": "https://cryptophoenix.org/phoenix"
 }, {
+  "name": "Masa",
+  "chainId": 13396,
+  "shortName": "masa",
+  "networkId": 13396,
+  "nativeCurrency": {
+    "name": "Masa Token",
+    "symbol": "MASA",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/masanetwork/mainnet/rpc"],
+  "faucets": [],
+  "infoURL": "https://masa.finance"
+}, {
   "name": "Immutable zkEVM Testnet",
   "chainId": 13473,
   "shortName": "imx-testnet",
@@ -14314,7 +14327,7 @@
 }, {
   "name": "Masa Testnet",
   "chainId": 103454,
-  "shortName": "masa",
+  "shortName": "masatest",
   "networkId": 103454,
   "nativeCurrency": {
     "name": "Masa Token",

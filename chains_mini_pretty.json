@@ -1936,6 +1936,32 @@
   "faucets": ["https://beta.shibariumtech.com/faucet"],
   "infoURL": "https://shibariumecosystem.com"
 }, {
+  "name": "Roburna Mainnet",
+  "chainId": 158,
+  "shortName": "rba",
+  "networkId": 158,
+  "nativeCurrency": {
+    "name": "Roburna",
+    "symbol": "RBA",
+    "decimals": 18
+  },
+  "rpc": ["https://dataseed.roburna.com"],
+  "faucets": [],
+  "infoURL": "https://www.roburna.com/"
+}, {
+  "name": "Roburna Testnet",
+  "chainId": 159,
+  "shortName": "rbat",
+  "networkId": 159,
+  "nativeCurrency": {
+    "name": "Roburna",
+    "symbol": "RBAT",
+    "decimals": 18
+  },
+  "rpc": ["https://preseed-testnet-1.roburna.com"],
+  "faucets": [],
+  "infoURL": "https://www.roburna.com/"
+}, {
   "name": "Armonia Eva Chain Mainnet",
   "chainId": 160,
   "shortName": "eva",
@@ -3105,6 +3131,32 @@
   "rpc": ["https://rpc1.testnet.camdl.gov.kh/"],
   "faucets": ["https://faucet.testnet.camdl.gov.kh/"],
   "infoURL": "https://camdl.gov.kh/"
+}, {
+  "name": "Near Mainnet",
+  "chainId": 397,
+  "shortName": "near",
+  "networkId": 397,
+  "nativeCurrency": {
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://near.org/"
+}, {
+  "name": "Near Testnet",
+  "chainId": 398,
+  "shortName": "near-testnet",
+  "networkId": 398,
+  "nativeCurrency": {
+    "name": "Testnet NEAR",
+    "symbol": "NEAR",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://aurora.dev"
 }, {
   "name": "Nativ3 Mainnet",
   "chainId": 399,

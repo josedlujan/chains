@@ -2027,6 +2027,19 @@
   "faucets": [],
   "infoURL": "https://docs.omni.network/"
 }, {
+  "name": "Omni",
+  "chainId": 166,
+  "shortName": "omni",
+  "networkId": 166,
+  "nativeCurrency": {
+    "name": "Omni",
+    "symbol": "OMNI",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://docs.omni.network/"
+}, {
   "name": "Atoshi Testnet",
   "chainId": 167,
   "shortName": "atoshi",
@@ -2280,7 +2293,7 @@
   "networkId": 206,
   "nativeCurrency": {
     "name": "VinuChain",
-    "symbol": "VС",
+    "symbol": "VC",
     "decimals": 18
   },
   "rpc": ["https://vinufoundation-rpc.com"],
@@ -2293,7 +2306,7 @@
   "networkId": 207,
   "nativeCurrency": {
     "name": "VinuChain",
-    "symbol": "VС",
+    "symbol": "VC",
     "decimals": 18
   },
   "rpc": ["https://vinuchain-rpc.com"],
@@ -2638,6 +2651,45 @@
   "faucets": [],
   "infoURL": "https://surnet.org"
 }, {
+  "name": "Neura",
+  "chainId": 266,
+  "shortName": "neura",
+  "networkId": 266,
+  "nativeCurrency": {
+    "name": "Ankr",
+    "symbol": "ANKR",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.neuraprotocol.io/"
+}, {
+  "name": "Neura Testnet",
+  "chainId": 267,
+  "shortName": "tneura",
+  "networkId": 267,
+  "nativeCurrency": {
+    "name": "Testnet Ankr",
+    "symbol": "ANKR",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.neuraprotocol.io/"
+}, {
+  "name": "Neura Devnet",
+  "chainId": 268,
+  "shortName": "dneura",
+  "networkId": 268,
+  "nativeCurrency": {
+    "name": "Devnet Ankr",
+    "symbol": "ANKR",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.neuraprotocol.io/"
+}, {
   "name": "High Performance Blockchain",
   "chainId": 269,
   "shortName": "hpb",
@@ -2702,6 +2754,19 @@
   "rpc": ["https://testnet.era.zksync.dev"],
   "faucets": [],
   "infoURL": "https://zksync.io/"
+}, {
+  "name": "Cronos zkEVM Testnet",
+  "chainId": 282,
+  "shortName": "zktcro",
+  "networkId": 282,
+  "nativeCurrency": {
+    "name": "Cronos zkEVM Test Coin",
+    "symbol": "TCRO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-zkevm-t0.cronos.org"],
+  "faucets": ["https://zkevm-t0.cronos.org/faucet"],
+  "infoURL": "https://docs.cronos.org/cronos-zkevm-chain/introduction-to-cronos-zkevm-chain-testnet"
 }, {
   "name": "Boba Network",
   "chainId": 288,
@@ -2845,6 +2910,19 @@
   "rpc": ["https://trpc.lovely.network"],
   "faucets": ["https://faucet.lovely.network"],
   "infoURL": "https://lovely.network"
+}, {
+  "name": "Furtheon",
+  "chainId": 308,
+  "shortName": "furtheon",
+  "networkId": 308,
+  "nativeCurrency": {
+    "name": "Furtheon",
+    "symbol": "FTH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.furtheon.org"],
+  "faucets": [],
+  "infoURL": "https://furtheon.org/"
 }, {
   "name": "Wyzth Testnet",
   "chainId": 309,
@@ -3508,6 +3586,19 @@
   "rpc": ["https://candle-rpc.com/", "https://rpc.cndlchain.com"],
   "faucets": [],
   "infoURL": "https://candlelabs.org/"
+}, {
+  "name": "OpTrust Mainnet",
+  "chainId": 537,
+  "shortName": "optrust",
+  "networkId": 537,
+  "nativeCurrency": {
+    "name": "BSC",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.optrust.io"],
+  "faucets": [],
+  "infoURL": "https://optrust.io"
 }, {
   "name": "PAWCHAIN Testnet",
   "chainId": 542,
@@ -7682,6 +7773,19 @@
   "faucets": [],
   "infoURL": "https://boba.network"
 }, {
+  "name": "Elux Chain",
+  "chainId": 2907,
+  "shortName": "ELUX",
+  "networkId": 2907,
+  "nativeCurrency": {
+    "name": "Elux Chain",
+    "symbol": "ELUX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.eluxscan.com"],
+  "faucets": [],
+  "infoURL": "https://eluxscan.com"
+}, {
   "name": "HYCHAIN",
   "chainId": 2911,
   "shortName": "hychain",
@@ -8826,6 +8930,19 @@
   "faucets": [],
   "infoURL": "https://www.ongr.org/"
 }, {
+  "name": "Nollie Skatechain Testnet",
+  "chainId": 5051,
+  "shortName": "nollie-testnet",
+  "networkId": 5051,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://nollie-rpc.skatechain.org/"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Syndicate Testnet",
   "chainId": 5100,
   "shortName": "syndicate-chain-testnet",
@@ -9007,6 +9124,19 @@
   "rpc": ["https://network.uzmigames.com.br/"],
   "faucets": [],
   "infoURL": "https://uzmigames.com.br/"
+}, {
+  "name": "OpTrust Testnet",
+  "chainId": 5317,
+  "shortName": "toptrust",
+  "networkId": 5317,
+  "nativeCurrency": {
+    "name": "TestBSC",
+    "symbol": "tBNB",
+    "decimals": 18
+  },
+  "rpc": ["https://rpctest.optrust.io"],
+  "faucets": [],
+  "infoURL": "https://optrust.io"
 }, {
   "name": "Tritanium Testnet",
   "chainId": 5353,
@@ -13713,6 +13843,32 @@
   "rpc": ["https://mainnet-rpc.grokchain.dev"],
   "faucets": [],
   "infoURL": "https://grokchain.dev"
+}, {
+  "name": "ICB Testnet",
+  "chainId": 73114,
+  "shortName": "ICBT",
+  "networkId": 73114,
+  "nativeCurrency": {
+    "name": "ICB Testnet Token",
+    "symbol": "ICBT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1-testnet.icbnetwork.info/", "https://rpc2-testnet.icbnetwork.info/"],
+  "faucets": [],
+  "infoURL": "https://icb.network"
+}, {
+  "name": "ICB Network",
+  "chainId": 73115,
+  "shortName": "ICBX",
+  "networkId": 73115,
+  "nativeCurrency": {
+    "name": "ICB Native Token",
+    "symbol": "ICBX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1-mainnet.icbnetwork.info/", "https://rpc2-mainnet.icbnetwork.info/"],
+  "faucets": [],
+  "infoURL": "https://icb.network"
 }, {
   "name": "Energy Web Volta Testnet",
   "chainId": 73799,

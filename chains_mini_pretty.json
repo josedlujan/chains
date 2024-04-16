@@ -7110,6 +7110,19 @@
   "faucets": [],
   "infoURL": "https://www.shrapnel.com/"
 }, {
+  "name": "Vanar Mainnet",
+  "chainId": 2040,
+  "shortName": "Vanar",
+  "networkId": 2040,
+  "nativeCurrency": {
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.vanarchain.com", "wss://ws.vanarchain.com"],
+  "faucets": [],
+  "infoURL": "https://vanarchain.com"
+}, {
   "name": "OriginTrail Parachain",
   "chainId": 2043,
   "shortName": "otp",
@@ -7252,6 +7265,19 @@
   "rpc": ["https://rpc.exosama.com", "wss://rpc.exosama.com"],
   "faucets": [],
   "infoURL": "https://moonsama.com"
+}, {
+  "name": "Catena Mainnet",
+  "chainId": 2121,
+  "shortName": "cmcx",
+  "networkId": 2121,
+  "nativeCurrency": {
+    "name": "Catena",
+    "symbol": "CMCX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1.catenarpc.com"],
+  "faucets": [],
+  "infoURL": "https://catena.network"
 }, {
   "name": "Metaplayerone Mainnet",
   "chainId": 2122,
@@ -13961,6 +13987,19 @@
   "faucets": [],
   "infoURL": "https://optopia.ai"
 }, {
+  "name": "Optopia Mainnet",
+  "chainId": 62050,
+  "shortName": "Optopia",
+  "networkId": 62050,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://optopia.ai"
+}, {
   "name": "Celo Baklava Testnet",
   "chainId": 62320,
   "shortName": "BKLV",
@@ -14422,7 +14461,7 @@
   "networkId": 78600,
   "nativeCurrency": {
     "name": "Vanguard Vanry",
-    "symbol": "VG",
+    "symbol": "VANRY",
     "decimals": 18
   },
   "rpc": ["https://rpc-vanguard.vanarchain.com", "wss://ws-vanguard.vanarchain.com"],
@@ -14464,7 +14503,7 @@
     "symbol": "MATIC",
     "decimals": 18
   },
-  "rpc": ["https://https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
+  "rpc": ["https://rpc-amoy.polygon.technology", "https://polygon-amoy-bor-rpc.publicnode.com", "wss://polygon-amoy-bor-rpc.publicnode.com"],
   "faucets": ["https://faucet.polygon.technology/"],
   "infoURL": "https://polygon.technology/"
 }, {
@@ -15430,6 +15469,19 @@
   "faucets": [],
   "infoURL": "https://docs.ic-plaza.org/"
 }, {
+  "name": "PlayFi Mainnet",
+  "chainId": 161212,
+  "shortName": "playfi",
+  "networkId": 161212,
+  "nativeCurrency": {
+    "name": "Play",
+    "symbol": "PLAY",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.playfi.ai/"
+}, {
   "name": "Taiko (Alpha-2 Testnet)",
   "chainId": 167004,
   "shortName": "taiko-a2",
@@ -16196,6 +16248,19 @@
   "rpc": ["https://mainnet-rpc.tipboxcoin.net"],
   "faucets": ["https://faucet.tipboxcoin.net"],
   "infoURL": "https://tipboxcoin.net"
+}, {
+  "name": "AIE Testnet",
+  "chainId": 413413,
+  "shortName": "aiet",
+  "networkId": 413413,
+  "nativeCurrency": {
+    "name": "AIE",
+    "symbol": "tAIE",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc1-testnet.aiechain.io"],
+  "faucets": [],
+  "infoURL": "https://testnet.aiescan.io"
 }, {
   "name": "Kekchain",
   "chainId": 420420,
@@ -17054,6 +17119,19 @@
   "rpc": ["https://rpc.zhejiang.ethpandaops.io"],
   "faucets": ["https://faucet.zhejiang.ethpandaops.io", "https://zhejiang-faucet.pk910.de"],
   "infoURL": "https://zhejiang.ethpandaops.io"
+}, {
+  "name": "PlayFi Albireo Testnet",
+  "chainId": 1612127,
+  "shortName": "alberio",
+  "networkId": 1612127,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://albireo-rpc.playfi.ai"],
+  "faucets": [],
+  "infoURL": "https://www.playfi.ai/"
 }, {
   "name": "Turkey Demo Dev",
   "chainId": 1731313,

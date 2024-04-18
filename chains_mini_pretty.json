@@ -2378,6 +2378,19 @@
   "faucets": ["https://faucet.mapprotocol.io"],
   "infoURL": "https://mapprotocol.io/"
 }, {
+  "name": "B2 Hub Mainnet",
+  "chainId": 213,
+  "shortName": "B2Hub-mainnet",
+  "networkId": 213,
+  "nativeCurrency": {
+    "name": "BSquared Token",
+    "symbol": "B2",
+    "decimals": 18
+  },
+  "rpc": ["https://hub-rpc.bsquared.network"],
+  "faucets": [],
+  "infoURL": "https://www.bsquared.network"
+}, {
   "name": "Shinarium Mainnet",
   "chainId": 214,
   "shortName": "shinarium",
@@ -2442,6 +2455,19 @@
   "rpc": ["https://blockchain-api-mainnet.permission.io/rpc"],
   "faucets": [],
   "infoURL": "https://permission.io/"
+}, {
+  "name": "B2 Mainnet",
+  "chainId": 223,
+  "shortName": "B2-mainnet",
+  "networkId": 223,
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.bsquared.network", "https://b2-mainnet.alt.technology"],
+  "faucets": [],
+  "infoURL": "https://www.bsquared.network"
 }, {
   "name": "Viridis Testnet",
   "chainId": 224,
@@ -2686,8 +2712,8 @@
     "symbol": "ANKR",
     "decimals": 18
   },
-  "rpc": [],
-  "faucets": [],
+  "rpc": ["https://rpc.ankr.com/neura_testnet"],
+  "faucets": ["https://testnet.neuraprotocol.io/faucet"],
   "infoURL": "https://www.neuraprotocol.io/"
 }, {
   "name": "Neura Devnet",
@@ -7305,6 +7331,19 @@
   "faucets": [],
   "infoURL": "https://docs.metaplayer.one/"
 }, {
+  "name": "BigShortBets Testnet",
+  "chainId": 2136,
+  "shortName": "bigsb_testnet",
+  "networkId": 2136,
+  "nativeCurrency": {
+    "name": "Dolarz",
+    "symbol": "Dolarz",
+    "decimals": 18
+  },
+  "rpc": ["https://test-market.bigsb.io", "wss://test-market.bigsb.io"],
+  "faucets": [],
+  "infoURL": "https://bigshortbets.com/"
+}, {
   "name": "BigShortBets",
   "chainId": 2137,
   "shortName": "bigsb",
@@ -7629,6 +7668,19 @@
   "rpc": ["https://api.sepolia.kroma.network"],
   "faucets": [],
   "infoURL": "https://kroma.network"
+}, {
+  "name": "Nexis Network Testnet",
+  "chainId": 2370,
+  "shortName": "nzt",
+  "networkId": 2370,
+  "nativeCurrency": {
+    "name": "Nexis",
+    "symbol": "NZT",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-testnet.nexis.network"],
+  "faucets": ["https://evm-faucet.nexis.network"],
+  "infoURL": "https://nexis.network/"
 }, {
   "name": "BOMB Chain Testnet",
   "chainId": 2399,
@@ -10047,6 +10099,19 @@
   "rpc": ["https://rpc.meversemainnet.io"],
   "faucets": [],
   "infoURL": "https://www.meverse.sg"
+}, {
+  "name": "Cyber Mainnet",
+  "chainId": 7560,
+  "shortName": "cyeth",
+  "networkId": 7560,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://cyber.co/"
 }, {
   "name": "ADIL Testnet",
   "chainId": 7575,
@@ -16645,7 +16710,7 @@
   "networkId": 555666,
   "nativeCurrency": {
     "name": "Eclipse",
-    "symbol": "ECLP",
+    "symbol": "ECLPS",
     "decimals": 18
   },
   "rpc": ["https://subnets.avax.network/eclipsecha/testnet/rpc"],
@@ -18094,6 +18159,19 @@
   "rpc": ["https://toys.joys.cash/"],
   "faucets": ["https://faucet.joys.digital/"],
   "infoURL": "https://joys.digital"
+}, {
+  "name": "Cyber Testnet",
+  "chainId": 111557560,
+  "shortName": "cysep",
+  "networkId": 111557560,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://cyber-testnet.alt.technology/", "wss://cyber-testnet.alt.technology/ws"],
+  "faucets": [],
+  "infoURL": "https://cyber.co/"
 }, {
   "name": "OP Celestia Raspberry",
   "chainId": 123420111,

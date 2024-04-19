@@ -5199,6 +5199,19 @@
   "faucets": ["https://evm-toolkit.evm.testnet.shimmer.network", "https://evm-faucet.testnet.shimmer.network"],
   "infoURL": "https://shimmer.network"
 }, {
+  "name": "IOTA EVM Testnet",
+  "chainId": 1075,
+  "shortName": "iotaevm-testnet",
+  "networkId": 1075,
+  "nativeCurrency": {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "decimals": 18
+  },
+  "rpc": ["https://json-rpc.evm.testnet.iotaledger.net"],
+  "faucets": ["https://evm-toolkit.evm.testnet.iotaledger.net"],
+  "infoURL": "https://www.iota.org"
+}, {
   "name": "Mintara Testnet",
   "chainId": 1079,
   "shortName": "mintara-testnet",
@@ -5524,6 +5537,19 @@
   "faucets": [],
   "infoURL": "https://smart-host.com.tr"
 }, {
+  "name": "ClubMos Mainnet",
+  "chainId": 1188,
+  "shortName": "MOS",
+  "networkId": 1188,
+  "nativeCurrency": {
+    "name": "ClubMos",
+    "symbol": "MOS",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.mosscan.com"],
+  "faucets": [],
+  "infoURL": "https://www.mosscan.com"
+}, {
   "name": "Iora Chain",
   "chainId": 1197,
   "shortName": "iora",
@@ -5588,6 +5614,19 @@
   "rpc": ["https://tapi.entercoin.net/"],
   "faucets": [],
   "infoURL": "https://entercoin.net"
+}, {
+  "name": "Cycle Network Testnet",
+  "chainId": 1221,
+  "shortName": "Cycle",
+  "networkId": 1221,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.cyclenetwork.io"],
+  "faucets": [],
+  "infoURL": "https://www.cyclenetwork.io/"
 }, {
   "name": "Hybrid Testnet",
   "chainId": 1224,
@@ -7994,6 +8033,19 @@
   "faucets": [],
   "infoURL": "https://whitepaper.anttime.net/overview/anttime"
 }, {
+  "name": "Morph Holesky",
+  "chainId": 2810,
+  "shortName": "hmorph",
+  "networkId": 2810,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-holesky.morphl2.io"],
+  "faucets": [],
+  "infoURL": "https://morphl2.io"
+}, {
   "name": "Boba Network Goerli Testnet",
   "chainId": 2888,
   "shortName": "BobaGoerli",
@@ -9993,6 +10045,19 @@
     "decimals": 18
   },
   "rpc": ["https://evm-rpc.planq.network"],
+  "faucets": [],
+  "infoURL": "https://planq.network"
+}, {
+  "name": "Planq Atlas Testnet",
+  "chainId": 7077,
+  "shortName": "planq-atlas-testnet",
+  "networkId": 7077,
+  "nativeCurrency": {
+    "name": "Planq",
+    "symbol": "tPLQ",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc-atlas.planq.network"],
   "faucets": [],
   "infoURL": "https://planq.network"
 }, {
@@ -15560,6 +15625,19 @@
   "faucets": [],
   "infoURL": "https://www.etnd.pro"
 }, {
+  "name": "MagApe Testnet",
+  "chainId": 141319,
+  "shortName": "mag",
+  "networkId": 141319,
+  "nativeCurrency": {
+    "name": "MagApe",
+    "symbol": "MAG",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-api.magape.io/chain/"],
+  "faucets": [],
+  "infoURL": "https://magape.io"
+}, {
   "name": "ICPlaza Mainnet",
   "chainId": 142857,
   "shortName": "ICPlaza",
@@ -15585,6 +15663,19 @@
   "rpc": [],
   "faucets": [],
   "infoURL": "https://www.playfi.ai/"
+}, {
+  "name": "Taiko Mainnet",
+  "chainId": 167000,
+  "shortName": "tko-mainnet",
+  "networkId": 167000,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.taiko.xyz", "wss://ws.taiko.xyz"],
+  "faucets": [],
+  "infoURL": "https://taiko.xyz"
 }, {
   "name": "Taiko (Alpha-2 Testnet)",
   "chainId": 167004,
@@ -15647,7 +15738,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.katla.taiko.xyz", "wss://rpc.katla.taiko.xyz", "https://taiko-katla.drpc.org", "wss://taiko-katla.drpc.org"],
+  "rpc": ["https://rpc.katla.taiko.xyz", "wss://ws.katla.taiko.xyz", "https://taiko-katla.drpc.org", "wss://taiko-katla.drpc.org"],
   "faucets": [],
   "infoURL": "https://taiko.xyz"
 }, {

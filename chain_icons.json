@@ -175,6 +175,14 @@
     "format": "png"
   }]
 }, {
+  "name": "magape",
+  "icons": [{
+    "url": "ipfs://QmPsxWMvnxnZ9dZcRJJMaE24o34dQsnsAMCJh3kVDrE1aB",
+    "width": 1000,
+    "height": 1000,
+    "format": "png"
+  }]
+}, {
   "name": "bifrost",
   "icons": [{
     "url": "ipfs://QmYxniqbiFD7nXBNjN8boUhoXYEAW23YquArD2Rnkq8WHS",
@@ -2551,6 +2559,14 @@
     "format": "png"
   }]
 }, {
+  "name": "cycle",
+  "icons": [{
+    "url": "ipfs://QmeC4mKGbBpwmLfFxUSsareWkSWJomevUmex8ajjxo1zHx",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "aah",
   "icons": [{
     "url": "ipfs://QmY7HDEj3vnTZzCmenotr48nYyD13R2Fyd5t12R9ARu4wJ",
@@ -4036,6 +4052,14 @@
     "url": "ipfs://QmNUpqkYWYJoDXKUpZ8FVbGyN6HCwxYonKNAieCf2oTzGn",
     "width": 1062,
     "height": 1062,
+    "format": "png"
+  }]
+}, {
+  "name": "clubmos",
+  "icons": [{
+    "url": "ipfs://QmczQf61mZmg3NmmGnwseDxzH1AqapA252KCTT85GuNG96",
+    "width": 51,
+    "height": 50,
     "format": "png"
   }]
 }, {

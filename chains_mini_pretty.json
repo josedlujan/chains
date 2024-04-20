@@ -6668,6 +6668,19 @@
   "faucets": ["https://claim-faucet.rubychain.io/"],
   "infoURL": "https://rubychain.io"
 }, {
+  "name": "UPB CRESCDI Testnet",
+  "chainId": 1918,
+  "shortName": "UPBEth",
+  "networkId": 1918,
+  "nativeCurrency": {
+    "name": "UPBEth",
+    "symbol": "UPBEth",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.crescdi.pub.ro"],
+  "faucets": [],
+  "infoURL": "https://mobylab.docs.crescdi.pub.ro/blog/UPB-CRESCDI-Testnet"
+}, {
   "name": "ONUS Chain Testnet",
   "chainId": 1945,
   "shortName": "onus-testnet",
@@ -8926,7 +8939,7 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://rpc.merlinchain.io"],
+  "rpc": ["https://rpc.merlinchain.io", "https://merlin-mainnet-enterprise.unifra.io"],
   "faucets": [],
   "infoURL": "https://merlinchain.io"
 }, {
@@ -9606,9 +9619,9 @@
   "faucets": [],
   "infoURL": "https://filenova.org"
 }, {
-  "name": "Tanssi EVM ContainerChain",
+  "name": "Tanssi Demo",
   "chainId": 5678,
-  "shortName": "TanssiCC",
+  "shortName": "tango",
   "networkId": 5678,
   "nativeCurrency": {
     "name": "TANGO",
@@ -9617,7 +9630,7 @@
   },
   "rpc": ["https://fraa-dancebox-3001-rpc.a.dancebox.tanssi.network", "wss://fraa-dancebox-3001-rpc.a.dancebox.tanssi.network"],
   "faucets": [],
-  "infoURL": "https://tanssi.network"
+  "infoURL": "https://docs.tanssi.network/builders/tanssi-network/networks/dancebox/demo-evm-containerchain"
 }, {
   "name": "Syscoin Tanenbaum Testnet",
   "chainId": 5700,
@@ -15962,6 +15975,19 @@
   "rpc": ["https://auroria.rpc.stratisevm.com"],
   "faucets": ["https://auroria.faucet.stratisevm.com"],
   "infoURL": "https://www.stratisplatform.com"
+}, {
+  "name": "GitAGI Atlas Testnet",
+  "chainId": 210049,
+  "shortName": "atlas",
+  "networkId": 210049,
+  "nativeCurrency": {
+    "name": "GitAGI",
+    "symbol": "tGAGI",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.gitagi.org"],
+  "faucets": [],
+  "infoURL": "https://gitagi.org/"
 }, {
   "name": "PlatON Mainnet",
   "chainId": 210425,
